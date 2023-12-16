@@ -67,7 +67,7 @@
 
 **Market Minds Insights Hub** is a holistic project that seamlessly integrates web scraping, data analysis, and visualization to offer a comprehensive understanding of top stocks. The interactive Power BI dashboard, along with unique features like animated bull and bear visuals, enhances the user experience and provides valuable insights into market trends.
 
-*To view the live Power BI dashboard, visit [Market Minds Insights Hub on Power BI](#insert_link_here).*
+*To view the live Power BI dashboard, visit [Market Minds Insights Hub on Power BI](https://app.powerbi.com/groups/32725b7c-c395-42de-b2f6-e13872e3b616/reports/eb34438c-f1b0-4c11-bdef-bac0414e43b2/ReportSection?experience=power-bi).*
 
 
 

@@ -8,8 +8,6 @@
      <img src="https://i.postimg.cc/Tw5LcTbk/ezgif-com-crop-6.gif" width="800" />
 </p>
 
-![ezgif com-crop (6)](https://github.com/sriramm04/Market_Minds_Insights_Hub/assets/129077845/e7a07373-8a0a-44d9-a15e-d64d8d8bfab2)
-
 ## Data Collection and Cleaning
 
 - Utilized Python's BeautifulSoup for scraping top stocks data.

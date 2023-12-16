@@ -35,11 +35,8 @@
 - 
   <p align="center">
   <img src="https://i.postimg.cc/nhVgNgMY/ezgif-com-rotate-1.gif" width="400" />
-  <img src="image2.jpg" width="400" />
+  <img src="https://i.postimg.cc/ZRjVPKFG/bull-in-green-s-01-removebg-preview.png" width="400" />
 </p>
-
-  ![bull_in_green_s_01-removebg-preview](https://github.com/sriramm04/Market_Minds_Insights_Hub/assets/129077845/5d03ec49-83f6-4d8f-9a2a-a9a87f18aebd) ![ezgif com-rotate (1)](https://github.com/sriramm04/Market_Minds_Insights_Hub/assets/129077845/7dd5959e-36ae-48cb-a6bf-12d2adba5152)
-
 
 - Bear in red indicates a bearish market.
 

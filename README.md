@@ -39,6 +39,11 @@
 </p>
 
 - Bear in red indicates a bearish market.
+  <p>
+      <img src="https://i.postimg.cc/kGjVyD4t/arrow-red2.gif" width="100" />
+     <img src="https://i.postimg.cc/yd1YrB2h/A-bear-dr-1-removebg-preview.png" width="300" />
+     <img src="https://i.postimg.cc/Y9CMzRmb/Bear-unscreen.gif" width="400" />
+</p>
 
 ### Tooltip Enhancements
 

@@ -50,6 +50,17 @@
 ### Tooltip Enhancements
 
 - **Bull and Bear Businessmen:** Animated bull and bear businessmen in tooltips.
+   <p>
+      <img src="https://i.postimg.cc/MHMLxPLP/bull-in-green-s-2cb8989c-fd3b-498d-8b9c-e3de476b853f.png" width="200" />
+     <img src="https://i.postimg.cc/tgJw245G/bear-with-red-s-a6d2b2fe-1169-4988-983e-622c1d07377e.png" width="200" />
+</p>
+
+<p>
+     <img src="https://i.postimg.cc/MHMLxPLP/bull-in-green-s-2cb8989c-fd3b-498d-8b9c-e3de476b853f.png" width="200" />
+     <img src="https://i.postimg.cc/tgJw245G/bear-with-red-s-a6d2b2fe-1169-4988-983e-622c1d07377e.png" width="200" />
+</p>
+
+
 - Real-time insights into market sentiment.
 
 ## Conclusion

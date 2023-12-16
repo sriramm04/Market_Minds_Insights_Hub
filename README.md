@@ -32,6 +32,7 @@
 
 - **Market Sentiment Indicator:** Animated bull and bear represent market sentiment.
 - Bull in a green suit signifies a bullish market.
+- 
 - Bear in red indicates a bearish market.
 
 ### Tooltip Enhancements

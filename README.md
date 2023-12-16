@@ -56,8 +56,8 @@
 </p>
 
 <p>
-     <img src="https://i.postimg.cc/MHMLxPLP/bull-in-green-s-2cb8989c-fd3b-498d-8b9c-e3de476b853f.png" width="200" />
-     <img src="https://i.postimg.cc/tgJw245G/bear-with-red-s-a6d2b2fe-1169-4988-983e-622c1d07377e.png" width="200" />
+     <img src="https://i.postimg.cc/rFLPrJR4/ezgif-com-gif-maker-2.gif" width="200" />
+     <img src="https://i.postimg.cc/Y9CMzRmb/Bear-unscreen.gif" width="200" />
 </p>
 
 

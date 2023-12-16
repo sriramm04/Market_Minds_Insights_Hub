@@ -33,7 +33,7 @@
 - **Market Sentiment Indicator:** Animated bull and bear represent market sentiment.
 - Bull in a green suit signifies a bullish market.
 <p>
-      <img src="https://i.postimg.cc/j2PBrnpG/ezgif-com-rotate.gif" width="400" style="margin-top: -20px;" />
+      <img src="https://i.postimg.cc/j2PBrnpG/ezgif-com-rotate.gif" width="100" style="margin-top: -20px;" />
      <img src="https://i.postimg.cc/ZRjVPKFG/bull-in-green-s-01-removebg-preview.png" width="300" />
      <img src="https://i.postimg.cc/nhVgNgMY/ezgif-com-rotate-1.gif" width="400" />
 </p>

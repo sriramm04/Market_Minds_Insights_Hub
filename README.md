@@ -34,7 +34,7 @@
 - Bull in a green suit signifies a bullish market.
 - 
   <p align="center">
-  <img src="![bull_in_green_s_01-removebg-preview](https://github.com/sriramm04/Market_Minds_Insights_Hub/assets/129077845/5d03ec49-83f6-4d8f-9a2a-a9a87f18aebd) width="400"" />
+  <img src=![bull_in_green_s_01-removebg-preview](https://github.com/sriramm04/Market_Minds_Insights_Hub/assets/129077845/5d03ec49-83f6-4d8f-9a2a-a9a87f18aebd) width="400" />
   <img src="image2.jpg" width="400" />
 </p>
 

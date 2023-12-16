@@ -4,6 +4,10 @@
 
 **Market Minds Insights Hub** offers in-depth analysis of top stocks, sourced from the screener website, presented through Python scripting, MySQL integration, and an interactive Power BI dashboard. This project delivers valuable insights into key financial metrics, market trends, and engaging visualizations for informed decision-making.
 
+<p>
+     <img src="https://i.postimg.cc/Tw5LcTbk/ezgif-com-crop-6.gif" width="400" />
+</p>
+
 ![ezgif com-crop (6)](https://github.com/sriramm04/Market_Minds_Insights_Hub/assets/129077845/e7a07373-8a0a-44d9-a15e-d64d8d8bfab2)
 
 ## Data Collection and Cleaning
